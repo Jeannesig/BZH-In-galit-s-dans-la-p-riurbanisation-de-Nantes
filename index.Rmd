@@ -1,0 +1,23 @@
+---
+title: "Projet SIG Nantes"
+author: "Adèle et Jeanne"
+date: "2026-04-26"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Périurbanisation et inégalités socio-spatiales dans l’aire urbaine de Nantes
+## Groupe Bzh
+Adèle
+Jeanne
+
+# Présentation du projet
+
+Ce projet porte sur l’analyse des inégalités socio-spatiales dans l’aire urbaine de Nantes à partir de données SIG et socio-économiques sous R.
+
+Nous mobilisons des données IRIS et Filosofi afin d’étudier les relations entre revenus, densité de population et distance au centre-ville.
+
+Le site complet sera enrichi progressivement avec les cartes et analyses du projet.
